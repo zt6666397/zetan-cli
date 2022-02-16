@@ -1,0 +1,19 @@
+{
+  "name": "@zetan-cli/utils",
+  "version": "1.0.0",
+  "description": "zetan-cli utils",
+  "author": "左涛 <chinasoft.t.zuo@chinasoft.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Run testing from utils\""
+  }
+}
